@@ -1,0 +1,14 @@
+C:\Users\Sergio.V\source\repos\JO - EL Ejercicios\JO - EL Ejercicios\bin\Debug\net8.0\JO - EL Ejercicios.exe
+C:\Users\Sergio.V\source\repos\JO - EL Ejercicios\JO - EL Ejercicios\bin\Debug\net8.0\JO - EL Ejercicios.deps.json
+C:\Users\Sergio.V\source\repos\JO - EL Ejercicios\JO - EL Ejercicios\bin\Debug\net8.0\JO - EL Ejercicios.runtimeconfig.json
+C:\Users\Sergio.V\source\repos\JO - EL Ejercicios\JO - EL Ejercicios\bin\Debug\net8.0\JO - EL Ejercicios.dll
+C:\Users\Sergio.V\source\repos\JO - EL Ejercicios\JO - EL Ejercicios\bin\Debug\net8.0\JO - EL Ejercicios.pdb
+C:\Users\Sergio.V\source\repos\JO - EL Ejercicios\JO - EL Ejercicios\obj\Debug\net8.0\JO - EL Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio.V\source\repos\JO - EL Ejercicios\JO - EL Ejercicios\obj\Debug\net8.0\JO - EL Ejercicios.AssemblyInfoInputs.cache
+C:\Users\Sergio.V\source\repos\JO - EL Ejercicios\JO - EL Ejercicios\obj\Debug\net8.0\JO - EL Ejercicios.AssemblyInfo.cs
+C:\Users\Sergio.V\source\repos\JO - EL Ejercicios\JO - EL Ejercicios\obj\Debug\net8.0\JO - EL Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\Sergio.V\source\repos\JO - EL Ejercicios\JO - EL Ejercicios\obj\Debug\net8.0\JO - EL Ejercicios.dll
+C:\Users\Sergio.V\source\repos\JO - EL Ejercicios\JO - EL Ejercicios\obj\Debug\net8.0\refint\JO - EL Ejercicios.dll
+C:\Users\Sergio.V\source\repos\JO - EL Ejercicios\JO - EL Ejercicios\obj\Debug\net8.0\JO - EL Ejercicios.pdb
+C:\Users\Sergio.V\source\repos\JO - EL Ejercicios\JO - EL Ejercicios\obj\Debug\net8.0\JO - EL Ejercicios.genruntimeconfig.cache
+C:\Users\Sergio.V\source\repos\JO - EL Ejercicios\JO - EL Ejercicios\obj\Debug\net8.0\ref\JO - EL Ejercicios.dll
